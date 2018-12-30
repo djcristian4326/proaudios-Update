@@ -44,7 +44,7 @@ font-family: 'Source Sans Pro', sans-serif;
 p{
 	margin:0;
 	font-family: 'Open Sans', sans-serif;
-	font-size: 14px;
+	font-size: 15px;
 	color: #777;
 	line-height: 2;
 }
@@ -160,7 +160,7 @@ label{
 
 
 .list-right> li > a {
-	color: #fff;
+	color: #fff;           
 	font-size: 1.5em;
 }
 .list-right> li > a:hover, .list-right> li > a:focus{
@@ -386,8 +386,8 @@ div#contact {
 }
 .bottomgridtext p {
     color: #dedede;
-    line-height: 26px;
-    font-size: 15px;
+    line-height: 18px;
+    font-size: 12px;
     letter-spacing: 1px;
 	font-weight:100;
 }
