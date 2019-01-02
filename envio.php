@@ -9,7 +9,7 @@ $mensaje .= "Su e-mail es: " . $Email . " \r\n";
 $mensaje .="Asunto".$_POST['Asunto'] . " \r\n"; 
 $mensaje .= "Enviado el " . date('d/m/Y', time()); 
 
-mail("contacto@infinitysolition.cl", "Mesaje de paguina", utf8_decode($mensaje));
+mail("contacto@infinitysolution.cl", "Mensaje de paguina", utf8_decode($mensaje));
 echo 'mensaje enviado correctamente'; 
 
 ?> 
