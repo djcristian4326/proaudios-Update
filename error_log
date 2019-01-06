@@ -1,0 +1,54 @@
+[03-Jan-2019 23:15:44 America/Santiago] PHP Parse error:  syntax error, unexpected 'mail' (T_STRING), expecting '(' in /home/infinit1/public_html/proaudios/envio.php on line 19
+[03-Jan-2019 23:17:53 America/Santiago] PHP Warning:  mail() has been disabled for security reasons in /home/infinit1/public_html/proaudios/envio.php on line 19
+[03-Jan-2019 23:18:02 America/Santiago] PHP Warning:  mail() has been disabled for security reasons in /home/infinit1/public_html/proaudios/envio.php on line 19
+[03-Jan-2019 23:19:41 America/Santiago] PHP Warning:  mail() has been disabled for security reasons in /home/infinit1/public_html/proaudios/envio.php on line 19
+[03-Jan-2019 23:24:45 America/Santiago] PHP Warning:  mail() has been disabled for security reasons in /home/infinit1/public_html/proaudios/envio.php on line 19
+[03-Jan-2019 23:29:40 America/Santiago] PHP Warning:  mail() has been disabled for security reasons in /home/infinit1/public_html/proaudios/envio.php on line 19
+[03-Jan-2019 23:29:50 America/Santiago] PHP Warning:  mail() has been disabled for security reasons in /home/infinit1/public_html/proaudios/envio.php on line 19
+[03-Jan-2019 23:30:06 America/Santiago] PHP Warning:  mail() has been disabled for security reasons in /home/infinit1/public_html/proaudios/envio.php on line 19
+[03-Jan-2019 23:36:05 America/Santiago] PHP Warning:  mail() has been disabled for security reasons in /home/infinit1/public_html/proaudios/envio.php on line 19
+[03-Jan-2019 23:36:09 America/Santiago] PHP Warning:  mail() has been disabled for security reasons in /home/infinit1/public_html/proaudios/envio.php on line 19
+[03-Jan-2019 23:36:16 America/Santiago] PHP Warning:  mail() has been disabled for security reasons in /home/infinit1/public_html/proaudios/envio.php on line 19
+[04-Jan-2019 17:29:18 America/Santiago] PHP Warning:  mail() has been disabled for security reasons in /home/infinit1/public_html/proaudios/envio.php on line 19
+[04-Jan-2019 17:30:15 America/Santiago] PHP Warning:  mail() has been disabled for security reasons in /home/infinit1/public_html/proaudios/envio.php on line 19
+[04-Jan-2019 17:30:16 America/Santiago] PHP Warning:  mail() has been disabled for security reasons in /home/infinit1/public_html/proaudios/envio.php on line 19
+[04-Jan-2019 17:30:17 America/Santiago] PHP Warning:  mail() has been disabled for security reasons in /home/infinit1/public_html/proaudios/envio.php on line 19
+[04-Jan-2019 17:30:50 America/Santiago] PHP Warning:  mail() has been disabled for security reasons in /home/infinit1/public_html/proaudios/envio.php on line 19
+[04-Jan-2019 17:31:01 America/Santiago] PHP Warning:  mail() has been disabled for security reasons in /home/infinit1/public_html/proaudios/envio.php on line 19
+[04-Jan-2019 17:34:05 America/Santiago] PHP Warning:  mail() has been disabled for security reasons in /home/infinit1/public_html/proaudios/envio.php on line 19
+[04-Jan-2019 17:34:08 America/Santiago] PHP Warning:  mail() has been disabled for security reasons in /home/infinit1/public_html/proaudios/envio.php on line 19
+[04-Jan-2019 20:40:25 UTC] PHP Fatal error:  Directive 'asp_tags' is no longer available in PHP in Unknown on line 0
+[04-Jan-2019 20:49:39 UTC] PHP Fatal error:  Directive 'asp_tags' is no longer available in PHP in Unknown on line 0
+[04-Jan-2019 20:49:41 UTC] PHP Fatal error:  Directive 'asp_tags' is no longer available in PHP in Unknown on line 0
+[05-Jan-2019 18:21:39 UTC] PHP Warning:  Unknown: open_basedir restriction in effect. File(/var/cpanel/php/sessions/ea-php56) is not within the allowed path(s): (/home/:/tmp:/usr/local/lib/:/var/cpanel/php/sessions/ea-php55) in Unknown on line 0
+[05-Jan-2019 18:21:39 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/infinit1/public_html/proaudios/envio.php on line 19
+[05-Jan-2019 18:32:27 UTC] PHP Warning:  Unknown: open_basedir restriction in effect. File(/var/cpanel/php/sessions/ea-php56) is not within the allowed path(s): (/home/:/tmp:/usr/local/lib/:/var/cpanel/php/sessions/ea-php55) in Unknown on line 0
+[05-Jan-2019 18:32:27 UTC] PHP Warning:  Unknown: open_basedir restriction in effect. File(/var/cpanel/php/sessions/ea-php56) is not within the allowed path(s): (/home/:/tmp:/usr/local/lib/:/var/cpanel/php/sessions/ea-php55) in Unknown on line 0
+[05-Jan-2019 18:32:27 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/infinit1/public_html/proaudios/envio.php on line 19
+[05-Jan-2019 18:32:27 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/infinit1/public_html/proaudios/envio.php on line 19
+[05-Jan-2019 18:32:28 UTC] PHP Warning:  Unknown: open_basedir restriction in effect. File(/var/cpanel/php/sessions/ea-php56) is not within the allowed path(s): (/home/:/tmp:/usr/local/lib/:/var/cpanel/php/sessions/ea-php55) in Unknown on line 0
+[05-Jan-2019 18:32:28 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/infinit1/public_html/proaudios/envio.php on line 19
+[05-Jan-2019 18:32:29 UTC] PHP Warning:  Unknown: open_basedir restriction in effect. File(/var/cpanel/php/sessions/ea-php56) is not within the allowed path(s): (/home/:/tmp:/usr/local/lib/:/var/cpanel/php/sessions/ea-php55) in Unknown on line 0
+[05-Jan-2019 18:32:29 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/infinit1/public_html/proaudios/envio.php on line 19
+[05-Jan-2019 18:32:30 UTC] PHP Warning:  Unknown: open_basedir restriction in effect. File(/var/cpanel/php/sessions/ea-php56) is not within the allowed path(s): (/home/:/tmp:/usr/local/lib/:/var/cpanel/php/sessions/ea-php55) in Unknown on line 0
+[05-Jan-2019 18:32:30 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/infinit1/public_html/proaudios/envio.php on line 19
+[05-Jan-2019 18:32:30 UTC] PHP Warning:  Unknown: open_basedir restriction in effect. File(/var/cpanel/php/sessions/ea-php56) is not within the allowed path(s): (/home/:/tmp:/usr/local/lib/:/var/cpanel/php/sessions/ea-php55) in Unknown on line 0
+[05-Jan-2019 18:32:30 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/infinit1/public_html/proaudios/envio.php on line 19
+[05-Jan-2019 18:32:30 UTC] PHP Warning:  Unknown: open_basedir restriction in effect. File(/var/cpanel/php/sessions/ea-php56) is not within the allowed path(s): (/home/:/tmp:/usr/local/lib/:/var/cpanel/php/sessions/ea-php55) in Unknown on line 0
+[05-Jan-2019 18:32:30 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/infinit1/public_html/proaudios/envio.php on line 19
+[05-Jan-2019 18:32:31 UTC] PHP Warning:  Unknown: open_basedir restriction in effect. File(/var/cpanel/php/sessions/ea-php56) is not within the allowed path(s): (/home/:/tmp:/usr/local/lib/:/var/cpanel/php/sessions/ea-php55) in Unknown on line 0
+[05-Jan-2019 18:32:31 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/infinit1/public_html/proaudios/envio.php on line 19
+[05-Jan-2019 18:32:31 UTC] PHP Warning:  Unknown: open_basedir restriction in effect. File(/var/cpanel/php/sessions/ea-php56) is not within the allowed path(s): (/home/:/tmp:/usr/local/lib/:/var/cpanel/php/sessions/ea-php55) in Unknown on line 0
+[05-Jan-2019 18:32:31 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/infinit1/public_html/proaudios/envio.php on line 19
+[05-Jan-2019 18:32:31 UTC] PHP Warning:  Unknown: open_basedir restriction in effect. File(/var/cpanel/php/sessions/ea-php56) is not within the allowed path(s): (/home/:/tmp:/usr/local/lib/:/var/cpanel/php/sessions/ea-php55) in Unknown on line 0
+[05-Jan-2019 18:32:31 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/infinit1/public_html/proaudios/envio.php on line 19
+[05-Jan-2019 18:32:32 UTC] PHP Warning:  Unknown: open_basedir restriction in effect. File(/var/cpanel/php/sessions/ea-php56) is not within the allowed path(s): (/home/:/tmp:/usr/local/lib/:/var/cpanel/php/sessions/ea-php55) in Unknown on line 0
+[05-Jan-2019 18:32:32 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/infinit1/public_html/proaudios/envio.php on line 19
+[05-Jan-2019 18:32:32 UTC] PHP Warning:  Unknown: open_basedir restriction in effect. File(/var/cpanel/php/sessions/ea-php56) is not within the allowed path(s): (/home/:/tmp:/usr/local/lib/:/var/cpanel/php/sessions/ea-php55) in Unknown on line 0
+[05-Jan-2019 18:32:32 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/infinit1/public_html/proaudios/envio.php on line 19
+[05-Jan-2019 18:32:32 UTC] PHP Warning:  Unknown: open_basedir restriction in effect. File(/var/cpanel/php/sessions/ea-php56) is not within the allowed path(s): (/home/:/tmp:/usr/local/lib/:/var/cpanel/php/sessions/ea-php55) in Unknown on line 0
+[05-Jan-2019 18:32:32 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/infinit1/public_html/proaudios/envio.php on line 19
+[05-Jan-2019 18:32:33 UTC] PHP Warning:  Unknown: open_basedir restriction in effect. File(/var/cpanel/php/sessions/ea-php56) is not within the allowed path(s): (/home/:/tmp:/usr/local/lib/:/var/cpanel/php/sessions/ea-php55) in Unknown on line 0
+[05-Jan-2019 18:32:33 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/infinit1/public_html/proaudios/envio.php on line 19
+[05-Jan-2019 18:32:33 UTC] PHP Warning:  Unknown: open_basedir restriction in effect. File(/var/cpanel/php/sessions/ea-php56) is not within the allowed path(s): (/home/:/tmp:/usr/local/lib/:/var/cpanel/php/sessions/ea-php55) in Unknown on line 0
+[05-Jan-2019 18:32:33 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/infinit1/public_html/proaudios/envio.php on line 19

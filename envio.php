@@ -16,7 +16,10 @@ $mensaje .= "Enviado el " . date('d/m/Y', time());
 $para = 'cristian63439@gmail.com';
 $asunto = 'Mensaje de mi sitio web';
 
-mail($para, $asunto, utf8_decode($mensaje), $header);
+if (mail($para, $asunto, utf8_decode($mensaje), $header)){
+	header("Location:index.html");
+}
 
-header("Location:index.html");
+
+
 ?>
