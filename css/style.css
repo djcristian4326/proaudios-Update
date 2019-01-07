@@ -227,12 +227,15 @@ i.fa.fa-music {
   padding: 0;
   margin: 0;
   }
-
+.callbacks ul{
+  animation: 20s infinite alternate linear;
+  }
 .callbacks li {
   position: absolute;
   width: 100%;
   left: 0;
   top: 0;
+  
   }
 
 .callbacks img {
@@ -861,9 +864,9 @@ color: #fff !important;
 input:-ms-input-placeholder {  
 color: #fff !important;  
 }
-.w3-subscribe-left i.fa.fa-envelope-o {
+.w3-subscribe-left i.fa.fa-whatsapp {
     font-size: 4em;
-	color: #00BCD4;
+	color: #25D366;
 	margin-top: 0.3em;
 }
 
