@@ -51,6 +51,7 @@ p{
 ul{
 	margin:0;
 	padding:0;
+
 }
 label{
 	margin:0;
@@ -217,6 +218,7 @@ i.fa.fa-music {
 .callbacks_container {
   position: relative;
   width: 100%;
+  animation: cambio 20s infinite alternate linear;
   }
 
 .callbacks {
