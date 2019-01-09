@@ -389,16 +389,16 @@ div#contact {
 }
 .bottomgridtext h3 {
     color: #fff;
-    margin: 50px 0 0px 0;
+    margin: 50px 0 7px 0;
     text-transform: uppercase;
     font-weight: normal;
     font-size: 23px;
 }
 .bottomgridtext p {
     color: #dedede;
-    line-height: 18px;
-    font-size: 12px;
-    letter-spacing: 1px;
+    line-height: 20px;
+    font-size: 16px;
+    letter-spacing: 0px;
 	font-weight:100;
 }
 .bottomgridtext{
@@ -443,7 +443,7 @@ div#contact {
 /* modal */
 .agileits-w3layouts-info p {
     color: #999;
-    font-size: 14px;
+    font-size: 20px;
     line-height: 24px;
 	margin-top:20px;
 }
@@ -457,7 +457,7 @@ div#contact {
 	border-radius:0px;
 }
 .agileits-w3layouts-info img {
-    width: 100%;
+    width: 50%;
 }
 /* //modal */
 
