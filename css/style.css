@@ -108,9 +108,9 @@ label{
     margin-bottom: 0px;
 }
 .navbar-nav {
-    float: left;
-    margin: 0 2em;
-    padding: 1.3em 18em 0;
+	float: left;
+	margin: 0 2em;
+	padding: 1.3em 18em 0;
 }
 .navbar-nav > li > a {
     padding-bottom: 0;
